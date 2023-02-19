@@ -94,9 +94,8 @@ if __name__ == "__main__":
         elif 'open stackoverflow' in query:
             webbrowser.open("stackoverflow.com")   
 
-
-        elif 'my website' in query:
-            webbrowser.open('notes-talhapython.herokuapp.com')
+       
+      
 
         elif 'work' in query:
             f = open('C:\\Users\\mmhus\\Downloads\\Jarvis\\dist\\my_work.txt','r')
